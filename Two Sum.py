@@ -21,4 +21,4 @@ class Solution(object):
             else:
                 end -= 1
 
-# Code Works when given an example
+# Code works when given an example
